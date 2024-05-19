@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on what ever project you want some one to collaborate with me
 - 📫 You can use my email bellow to reach me
 - bed-com-37-20@unima.ac.mw
+skills
+<img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="30" height="30"/>
 
 
 <!---
