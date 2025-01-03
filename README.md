@@ -10,7 +10,7 @@ skills
 ### Connect with me:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/bed-com-37-20)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Enerst Banda/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://mw.linkedin.com/in/enerst-banda-162893344)
 ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Enerst Banda)
 
 ### Languages and Tools:
